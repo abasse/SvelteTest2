@@ -8,7 +8,7 @@
 
 <style>
 	button {
-	  background: #666666;
+	  background: black;
 	  color: white;
 	  border: none;
 	  padding: 8px 12px;
@@ -26,3 +26,4 @@
 </button>
 
 <div class="counter">{count}</div>
+
